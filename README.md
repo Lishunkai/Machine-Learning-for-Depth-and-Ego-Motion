@@ -7,6 +7,8 @@ Unsupervised Learning of Depth and Ego-Motion from Video
 
 In CVPR 2017 (**Oral**).
 
+用该文章的方法做Ego-Motion比用SLAM做Ego-Motion更稳定。
+
 See the [project webpage](https://people.eecs.berkeley.edu/~tinghuiz/projects/SfMLearner/) for more details. Please contact Tinghui Zhou (tinghuiz@berkeley.edu) if you have any questions.
 
 <img src='misc/cityscapes_sample_results.gif' width=320>
